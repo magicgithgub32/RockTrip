@@ -7,10 +7,22 @@
   --eh-color-aqua: rgb(167, 218, 220);
   --eh-color-peppermint: rgb(242, 250, 239);
   --eh-color-red: rgb(230, 55, 70);
+
+  --eh-typography: 'Montserrat';
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: var(--eh-typography);
+  color: var(--eh-color-blue--dark);
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #F2F2F2;
 }
