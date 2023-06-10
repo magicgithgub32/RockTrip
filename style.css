@@ -1,0 +1,16 @@
+:root {
+  /* COLORS */
+  --eh-color-primary: rgb(255, 244, 70);
+  --eh-color-secondary: rgb(0, 182, 15);
+  --eh-color-blue--dark: rgb(14, 30, 63);
+  --eh-color-blue--cello: rgb(29, 54, 88);
+  --eh-color-aqua: rgb(167, 218, 220);
+  --eh-color-peppermint: rgb(242, 250, 239);
+  --eh-color-red: rgb(230, 55, 70);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
